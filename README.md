@@ -85,9 +85,6 @@ PINECONE_API_KEY="56a9a996-8ede-476c-88e0-f3403fcc4972******"
 
 -->we can use chroma instaed of pinecone vector database as it is not free now
 
--->open Ai key==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****
-
-
 --->for database 
 if we change any thing in prisma schema , we have to run 
 -->always npx prisma generate
